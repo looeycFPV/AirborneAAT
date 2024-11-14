@@ -54,8 +54,8 @@ LED2 flashing - The antenna dish is not detected. Please confirm that the connec
 
 Precautions:
 
-(1) Do not forcibly rotate the antenna dish by external force, otherwise it may cause damage to the antenna servo or impairment of the tracking function.
-(2) The video transmission signal power should not exceed 1000 milliwatts (30dBm), otherwise it may cause damage to the antenna RF circuit.
-(3) This antenna assembly is only applicable to personal leisure, entertainment, and learning and research purposes.
+(1) Do not forcibly rotate the antenna dish by external force, otherwise it may cause damage to the antenna servo or impairment of the tracking function.  
+(2) The video transmission signal power should not exceed 1000 milliwatts (30dBm), otherwise it may cause damage to the antenna RF circuit.  
+(3) This antenna assembly is only applicable to personal leisure, entertainment, and learning and research purposes.  
 
 Have fun!
